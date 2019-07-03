@@ -17,7 +17,7 @@
       "frequency": 4
     },
     "move": {
-      "frames": [4, 6, 8, 6],
+      "frames": [0, 1, 2, 1],
       "next": "move",
       "frequency": 4
     },
